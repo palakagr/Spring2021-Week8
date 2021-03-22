@@ -6,7 +6,7 @@ This repository contains:
 
 - [A first DL application using multi-layer perceptron](DL_Basics1_SimpleMLP.ipynb)
 - [An improved DL model using CNN](DLBasics_SimpleCNN.ipynb)
-- [Ships revisited using DL](DLBasics_SHIPS.ipynb)
+- [Ship detection using DL](DLBasics_SHIPS.ipynb)
 - [Let's relax and get some fun: data augmentation with cats](DLBasics_KerasDataAugmentation.ipynb)
 - [A DL model using data augmentation](DLBasics_KerasDataAugmentation_Application.ipynb)
 - [Transfer learning](DLBasics_TransferLearning.ipynb)
