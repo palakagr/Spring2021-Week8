@@ -9,9 +9,11 @@ This repository contains:
 - [Data augmentation with cats](DLBasics_KerasDataAugmentation.ipynb)
 
 All notebooks can be copied from and run on Google Colab:
+
   https://drive.google.com/drive/u/4/folders/15Bn-atF_3gzptIXQSQ4EEzZ057kLO9lM
   
 Data for some of the notebooks is in:
+
   https://drive.google.com/drive/u/4/folders/10HpS26ZPhUXaJ8FrEMuUD01-aSjoTfC7
 
 This is a highly practical session. Please be ready to run the code on your own computers during ans/or after the class. More background information will follow in next classes!
